@@ -43,6 +43,12 @@
 - Evangelos Sigalas
   - Ph.D. Candidate, 2019
   - Computational Neuroscience, Deep Learning, Causal Inference
+  
+- Di Fu
+  - Ph.D. Student, 2019
+  - Lifelong machine learning, Deep Learning, 
+  
+  
 
 - [Name]
 - [Position, Year]
